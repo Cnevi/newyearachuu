@@ -147,8 +147,8 @@ const B_CHILD = {
     radiusY: 10,
     y: "1.1em",
     angle: -10,
-    duration: 2000,
-    delay: 1000 }).
+    duration: 10,
+    delay: 1000000000 }).
   then({
     strokeWidth: { "5em": "1em" },
     strokeDashoffset: { "100%": "-200%" },
